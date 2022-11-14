@@ -1,1 +1,2 @@
-# [The Victory Planner target](https://jmmonjeremy.github.io/Victory-Planner/){:target="_blank"}
+# [The Victory Planner](https://jmmonjeremy.github.io/Victory-Planner/){:target="_blank"}
+# <a href="https://jmmonjeremy.github.io/Victory-Planner" target="_blank">Victory Planner</a>
