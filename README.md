@@ -1,1 +1,1 @@
-# The Victory Planner: https://jmmonjeremy.github.io/Victory-Planner/
+# [The Victory Planner](https://jmmonjeremy.github.io/Victory-Planner/)
